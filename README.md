@@ -2,5 +2,5 @@ ProducerB adds 2 letters to buffer at once. A letter must be read by both conums
   
 Commands:  
   
- ./run.sh
+ ./run.sh  
  ./test
